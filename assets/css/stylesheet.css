@@ -1,0 +1,75 @@
+body {
+    font-family: Lora;
+    font-weight: 100;
+    font-size: 15pt;
+    line-height: 1.5em;
+    background: #F2F2EF;
+    color: #403833;
+    -webkit-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+
+h1, h2, h3, h4 {
+    font-family: Lora;
+    font-weight: 700;
+    color: #13A3A5;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+h1.title {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-align: left;
+    font-size: 2em;
+}
+
+a {
+    color: #13A3A5;
+    text-decoration: none;
+}
+
+a:hover, a:visited:hover {
+   transition: all 0.3s ease;
+   -webkit-transition: all 0.3s ease;
+   -moz-transition: all 0.3s ease;
+    color: #E54E45;
+}
+
+a:visited {
+    color: #536D73;
+}
+
+#content {
+    margin: 0.5em auto;
+    width: 640pt;
+    padding: 0.5em;
+}
+#postamble {
+    display: none;
+}
+
+.hmenu ul {
+    padding: 0;
+}
+.hmenu li {
+    font-style: italic;
+    list-style: none;
+    float: left;
+    padding: 0.5em;
+    padding-bottom: 0.75em;
+    line-height: 1em;
+    margin-right: 1em;
+    border-radius: .25em;
+}
+
+.hmenu li a:hover {
+    border: none;
+}
+.hmenu li:hover {
+    background: #FFFFFF;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
