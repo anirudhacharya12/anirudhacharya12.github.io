@@ -1,16 +1,17 @@
 <nav>
-  <h1>Hi.</h1>
   <a href="/">
     {% if site.data.theme.social.gravatar %}
     <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="My photo"/>
     {% else %}
-    <img src="/logo.png" id="logo" alt="Blog logo"/>
+    <!--img src="/logo.png" id="logo" alt="Blog logo"/-->
     {% endif %}
   </a>
   <h2><a href="/">{{ site.data.theme.name }}</a>.</h2>
   <div id="bio">
-    <p>Software Developer.</p>
+    <p>Software Developer</p>
   </div>
+  <h3><a href="/about.html">{{ site.data.theme.about }}</a>.</h3>
+  <h3><a href="/">{{ site.data.theme.blog }}</a>.</h3>
   <div id="social">
     {% include social.html %}
   </div>
