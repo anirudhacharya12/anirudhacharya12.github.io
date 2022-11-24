@@ -6,7 +6,7 @@ date: 2017-01-22
 
 Site powered by [Jekyll](http://jekyllrb.com) and uses Markdown to author my posts.
 
-# Testing CSS Stylesheet Latex Output - Multivariate Linear Regression
+## Testing CSS Stylesheet Latex Output - Multivariate Linear Regression
 
 This post deals with simple multivariate linear regression problem.
 

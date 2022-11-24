@@ -6,8 +6,6 @@ date: 2020-04-12
 
 <style>body {text-align: justify}</style>
 
-# Working Backwards
-
 Amazon.com swears by “Working Backwards” as a tenet. And it is an excellent tenet that has worked well for the company. The work culture is such that even all of its employees adhere to it as a principle.
 
 Working at Amazon, I, too, got to learn the benefits of this principle. It is an excellent rule to follow for any consumer-facing product/company like Amazon. You keep “Customer Obsession” or customer stories as your north star and “work backward” from there; you let it guide you to indicate which direction to move. This works well for customer-oriented businesses like Amazon.

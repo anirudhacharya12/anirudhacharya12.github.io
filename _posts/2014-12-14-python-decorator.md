@@ -6,8 +6,6 @@ date: 2014-12-04
 
 <style>body {text-align: justify}</style>
 
-# Python Decorators and Memoization
-
 Decorator classes are a very neat way of wrapping functions within other functions to add meta or additional functionality. Like for example if we are trying to write a recursive solution to a problem and we want to memoize the values that we are calculating so that later we do not have to reevaluate those values we can use the decorator classes. Following problem demonstrates this.
 
 Problem - Given a number, it can be expressed as a sequence of sum of squares of integers. There are many such sequences possible, find out the minimum length among all such sequences.

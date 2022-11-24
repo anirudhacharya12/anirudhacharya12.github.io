@@ -6,8 +6,6 @@ date: 2019-06-12
 
 <style>body {text-align: justify}</style>
 
-# Explainability in AI
-
 In this post, I will share a few of my thoughts on explainability in AI/ML.
 
 ## Motivating Stories

@@ -6,8 +6,6 @@ date: 2015-05-06
 
 <style>body {text-align: justify}</style>
 
-# Data Visualization vs Design Aesthetics
-
 Data Visualization is often mistaken for design aesthetics. I was made more aware of this recently when a course on Data Visualization was offered here in school. I only attended the first lecture but I have been more or less aware of the course material and was quite skeptical about the course content. In my opinion they did not make a distinction between data visualization and design aesthetics. Though Design Aesthetics is important for marketing a product or making a more attractive presentation etc.. it is not critical to problem solving, but Data Visualization is very critical to solving problems. Hence the distinction between the two has to be made.
 
 Data Visualization is most important in getting an intuitive grasp of an algorithm or a geometric manipulations of data in multi dimensional space.
