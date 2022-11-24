@@ -6,8 +6,6 @@ date: 2014-07-17
 
 <style>body {text-align: justify}</style>
 
-# Financial Incentives and Work Efficiency
-
 I was recently going through this ICML 2013 Workshop paper ( [Financial Incentives and Efficiency of Crowdsourced Work](https://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/viewFile/6301/6887) ) by Yiling Chen, it was quite interesting.
 
 I think the gist of it was that offering a high initial reward(compared to a lower initial reward) for a task is not likely to increase the quality of the work done. But on the contrary, starting with a lower initial reward and then increasing the reward for similar and consecutive tasks is likely to see a substantial increase in the quality of work from the workers. They carried out the experiments on Amazon MTurk.
