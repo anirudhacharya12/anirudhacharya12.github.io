@@ -16,7 +16,7 @@ In other words, an organization would be wiser if they hired new employees at a 
 
 Now, this might seem obvious to some people, it does to me too, but apparently, this is not how some of the major organizations( IT) seem to think. Check out this conversation I had with a senior executive -
 
-<img src="images/incentives.png" alt="Conversation Thread" style="height: 800px; width:350px;"/>
+<img src="/images/incentives.png" alt="Conversation Thread" style="height: 800px; width:350px;"/>
 
 Apparently, the accepted wisdom is that - "smart managers know that it is much easier to hire at a higher wage than it is to hire at a lower wage and give a raise later"
 

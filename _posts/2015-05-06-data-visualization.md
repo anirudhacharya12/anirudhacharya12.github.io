@@ -18,13 +18,13 @@ Visualization could also be crucial to designing algorithms - it could help us i
 
 There was a competition in kaggle, some time back, about Packing Santa's Sleigh, which is slightly similar to the bin packing problem mentioned above, except that, instead of 1-d objects like in the traditional bin packing problem, we have 3-d objects( huge number of objects ~ 100,000) that have to be stacked on a 2-d sleigh with minimum height, and adhering to an ordering condition of the objects. You could see this problem as bin packing or a dynamic programming problem. But in either case we first need an idea about the different height, width, depth and volume details of the different objects. The following visualizations gives an idea about the dimensions of the different objects and might guide us in choosing the right approach to solve them -
 
-<img src="../images/dataviz-sizes.png" alt="Present Sizes" style="height: 200px; width:350px;"/>
+<img src="/images/dataviz-sizes.png" alt="Present Sizes" style="height: 200px; width:350px;"/>
 
-<img src="../images/dataviz-opacity.png" alt="Transparent View of Presents" style="height: 200px; width:200px;"/>
+<img src="/images/dataviz-opacity.png" alt="Transparent View of Presents" style="height: 200px; width:200px;"/>
 
 Following is an isometric view of all the objects places on a single plane.
 
-<img src="../images/dataviz-isometric.png" alt="Isometric View of Presents" style="height: 200px; width:200px;"/>
+<img src="/images/dataviz-isometric.png" alt="Isometric View of Presents" style="height: 200px; width:200px;"/>
 
 As we can see Data Visualization has a clear role to play in coming up with creative and accurate solutions for problems.
 
@@ -32,6 +32,6 @@ On the other hand, stuff like designing an aesthetically appealing resume, or a 
 
 As shown below these exact topics were some of the assignments given in the Data Visualization class, which I do not think quite fits in with the subject of Data Visualization.
 
-<img src="../images/dataviz-tweet.png" alt="Instructor's tweet" style="height: 300px; width:300px;"/>
+<img src="/images/dataviz-tweet.png" alt="Instructor's tweet" style="height: 300px; width:300px;"/>
 
 I think they both have their significance but their difference need to be noted.

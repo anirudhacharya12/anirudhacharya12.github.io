@@ -6,12 +6,16 @@
     <!--img src="/logo.png" id="logo" alt="Blog logo"/-->
     {% endif %}
   </a>
-  <h2><a style="text-align:left;" href="/">{{ site.data.theme.name }}</a></h2>
+  <h2><a href="/">{{ site.data.theme.name }}</a></h2>
   <div id="bio">
     <p>Software Developer</p>
   </div>
-  <h4><a style="text-align:right;" href="/about.html">About</a></h3>
-  <h4><a style="text-align:right;" href="/">Blog</a></h3>
+  <div id="bio">
+    <h4><a href="/about.html">About</a></h3>
+  </div>
+  <div id="bio">
+    <h4><a href="/">Blog</a></h3>
+  </div>
   <div id="social">
     {% include social.html %}
   </div>
