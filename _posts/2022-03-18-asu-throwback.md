@@ -46,8 +46,6 @@ _______________________________
 
 It was sometime after Colbourn’s course and because of his course that I started participating in some online coding competitions. Eventually, in the Fall of 2014, I did well enough in some of the competitions that I got invited to a fully paid corporate networking event in San Jose. This was my first experience with such corporate events in the US and it felt pretty fancy back then.
 
-I was flown over from Tempe to San Jose and put up in a fancy hotel, Hyatt Regency. They even booked a Limolink for me from the airport to the Hyatt Regency hotel. That was the first time I traveled in a limo car, and I didn’t even have to pretend I was O’Brien –
+I was flown over from Tempe to San Jose and put up in a fancy hotel, Hyatt Regency. They even booked a Limolink for me from the airport to the Hyatt Regency hotel. That was the first time I traveled in a limo car, and I didn’t even have to pretend that I was O’Brien, the way George and Jerry had to &#128512; –
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=UzNIWVSHPAk
-</div></figure>
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=UzNIWVSHPAk"></iframe>
