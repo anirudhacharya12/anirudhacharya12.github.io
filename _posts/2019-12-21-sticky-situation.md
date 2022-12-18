@@ -16,7 +16,7 @@ Such a situation will set the stage for some very nasty partisan politicking. Pe
 
 Such situations remind me of this quote by Sir Walter Scott –
 
-<img src="/images/tangled-web.png" alt="tangled-web-quote" style="height: 200px; width:500px;"/>
+<img src="/images/tangled-web.png" alt="tangled-web-quote" style="height: 400px; width:500px;"/>
 
 This is why it is my belief that it is always best and healthy, at any point in time, to compare only with an earlier version of yourself and see how you are improving and progressing rather than comparing with others and feeling resentful. Each man’s path is different. Success and failures, positives and negatives, come in different ways and at different times for each person. Resenting the skill or success of others and trying to pull them down when things may not be going well for you is a very deplorable thing. Sadly many of our fellow humans indulge in this all the time.
 
@@ -24,11 +24,15 @@ The above situation I narrated is just one example. Similar situations can arise
 
 *********
 
-On a slightly related note – why do certain products from big tech companies like Google, Microsoft, and Amazon, fail despite hiring top tech talent? The following is a very accurate take on the matter. I have seen this happen with certain products –
+### On a related note – 
 
-<img src="/images/failed-product.png" alt="failed-product" style="height: 200px; width:500px;"/>
+why do certain products from big tech companies like Google, Microsoft, and Amazon, fail despite hiring top tech talent? The following is a very accurate take on the matter. I have seen this happen with certain products –
+
+<img src="/images/failed-product.png" alt="failed-product" style="height: 350px; width:500px;"/>
 
 *********
+
+### A Tangential Story -
 
 In the above context, a tangentially related story that comes to mind is the story of Arjuna and Karna from Mahabharata. Their rivalry is very famous and lasts for almost all their lifetimes. Arjuna is always focused on bettering himself and becoming the best possible archer. Whereas Karna is forever obsessed with Arjuna and how he could beat or better Arjuna in a duel. In my opinion, this is the defining difference between the two warriors – their attitude to their craft and life.
 
