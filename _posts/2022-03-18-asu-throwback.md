@@ -48,4 +48,4 @@ It was sometime after Colbourn’s course and because of his course that I start
 
 I was flown over from Tempe to San Jose and put up in a fancy hotel, Hyatt Regency. They even booked a Limolink for me from the airport to the Hyatt Regency hotel. That was the first time I traveled in a limo car, and I didn’t even have to pretend that I was O’Brien, the way George and Jerry had to &#128512; –
 
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=UzNIWVSHPAk"></iframe>
+{% include youtube.html id="UzNIWVSHPAk" %}

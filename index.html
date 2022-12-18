@@ -1,13 +1,20 @@
 ---
 layout: default
-title: Blog Posts
+title: About
 ---
 
-<div id="home">
-  <h2><i class="fa fa-bookmark"></i> Blog Posts</h2>
-  <ul id="blog-posts" class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+<div id="about">
+  <h2 style="color:#3445db"><i class="fa fa-globe"></i> About</h2>
+  <ul id="about-page" class="posts">
+    <style>body {text-align: justify}</style>
+    <p>I am a Software Developer. My work spans working in companies like Amazon Web Services, Yahoo! and Oracle. I have worked in different verticals like AdTech/Monetization systems, Backend Systems and Webservices for large-scale Consumer facing products, and in building Frameworks and Tools for Machine Learning workflows.</p>
+    
+    <p>I did my undergrad in NITK Surathkal and have a Masters in Computer Science from Arizona State University.</p>
+    
+    <p>During my first few years in California, cycling in around the Bay Area used to be my usual weekend getaway. I had initially thought I would write a <a href="https://travel-anirudhacharya.blogspot.com/">blog</a> about these weekend biking jaunts, but I eventually settled to making a map marking the different bike trails I had been to.</p>
+    <iframe height="800" src="https://www.google.com/maps/d/u/0/embed?mid=1SEb-BGU48kZ4NuELEskrazHwtfCTCCY&amp;ehbc=2E312F" width="700"></iframe>
+    
+    <p style="margin-top:1cm;">Prior to coming to the United States, I did my undergrad in Surathkal, Mangalore and worked for a couple of years in Hyderabad. These are most of the places I have visited in India during that time.</p>
+    <iframe height="800" src="https://www.google.com/maps/d/u/0/embed?mid=1e3Yacju4WKQXD7fxPCR1bOnPjw_zSUA&amp;ehbc=2E312F" width="700"></iframe>
   </ul>
 </div>
