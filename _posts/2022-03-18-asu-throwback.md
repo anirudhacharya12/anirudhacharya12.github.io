@@ -6,7 +6,7 @@ date: 2022-03-18
 
 <style>body {text-align: justify}</style>
 
-I recently had to read up a bit on some stochastic algorithms, and it felt like a slight throwback to the “Randomized and Approximation Algorithms” course in ASU that I took with Charles Colbourn – https://public.asu.edu/~ccolbou/.
+I recently had to read up a bit on some stochastic algorithms, and it felt like a slight throwback to the “Randomized and Approximation Algorithms” course in ASU that I took with Charles Colbourn – <a href="https://www.public.asu.edu/~ccolbou/" target="_blank">https://www.public.asu.edu/~ccolbou/</a>
 
 It was one of the most intense and stimulating courses I have ever taken.
 
@@ -24,7 +24,7 @@ I attended his course with 2 years of industry behind, so I was a bit rusty and 
 
 Anyway, his course was not the one you would take to get good grades, but then if you are optimizing for grades, then you are doing grad school wrong.
 
-Looks like Fall 2013 was the last time the course was offered – https://www.public.asu.edu/~ccolbou/. 
+Looks like Fall 2013 was the last time the course was offered – <a href="https://www.public.asu.edu/~ccolbou/" target="_blank">https://www.public.asu.edu/~ccolbou/</a>.
 
 <img src="/images/course.png" alt="rand-algo-course" style="height: 200px; width:500px;"/>
 
@@ -40,7 +40,7 @@ Joohyung Lee said that with a bit more work on the project, we might be able to 
 
 I did not take any course with Jingrui He, but TA’ed for her Machine Learning course, and I liked the experience and thought she was a good teacher.
 
-This is not teacher’s day or anything, but I just remembered all this, and this is an appreciation thread for these teachers from [@SCAI_ASU](https://mobile.twitter.com/scai_asu) whom I would remember very positively – Charles Colbourn, Joohyung Lee, and Jingrui He.
+This is not teacher’s day or anything, but I just remembered all this, and this is an appreciation thread for these teachers from <a href="https://mobile.twitter.com/scai_asu" target="_blank">@SCAI_ASU</a> whom I would remember very positively – Charles Colbourn, Joohyung Lee, and Jingrui He.
 
 _______________________________
 

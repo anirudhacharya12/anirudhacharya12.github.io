@@ -24,6 +24,6 @@ The above situation I narrated is just one example. Similar situations can arise
 
 ### On a related note – 
 
-why do certain products from big tech companies like Google, Microsoft, and Amazon, fail despite hiring top tech talent? The following is a very accurate take on the matter. I have seen this happen with certain products –
+Why do certain products from big tech companies like Google, Microsoft, etc..., fail despite hiring top tech talent? The following is a very accurate take on the matter. I have seen this happen with certain products –
 
 <img src="/images/failed-product.png" alt="failed-product" style="height: 350px; width:500px;"/>

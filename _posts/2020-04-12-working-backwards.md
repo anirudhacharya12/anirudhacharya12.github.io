@@ -15,8 +15,8 @@ But there are situations where “Working Backwards” might not serve us well. 
 Steve Jobs, while releasing the iPhone, once told that sometimes customers do not know what they want, and we need to tell them what they want. That was how he revolutionized the smartphone market — no one knew what kind of product would be most convenient. Steve Jobs dreamt up the iPhone product and told them what they should be wanting. This is a typical case of “working forward” rather than “working backward.”
 
 But working backward does work for Amazon very well, and I believe much of the company’s success can be attributed to this tenet. These two articles explain how Amazon does “working backwards” with science and engineering –
- - [Werner Vogels, CTO at Amazon, weighs in on “Working Backwards”](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
- - [How Amazon does “customer obsessed” science by Vanessa Murdock](https://www.amazon.science/vanessa-murdock-is-a-classical-pianist-turned-amazon-applied-scientist)
+ - <a href="https://www.allthingsdistributed.com/2006/11/working_backwards.html" target="_blank">Werner Vogels, CTO at Amazon, weighs in on “Working Backwards”</a>
+ - <a href="https://www.amazon.science/vanessa-murdock-is-a-classical-pianist-turned-amazon-applied-scientist" target="_blank">How Amazon does “customer obsessed” science by Vanessa Murdock</a>
 
 *************
 
