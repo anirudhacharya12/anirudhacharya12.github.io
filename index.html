@@ -6,13 +6,7 @@ title: Blog Posts
 <div id="home">
   <h2><i class="fa fa-bookmark"></i> Blog Posts</h2>
   <ul id="tech-blog-posts" class="posts">
-    {% for post in site.tech.posts %}
-      <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-  <h2><i class="fa fa-bookmark"></i> Other Miscellaneous Posts</h2>
-  <ul id="misc-blog-posts" class="posts">
-    {% for post in site.misc.posts %}
+    {% for post in site.tech %}
       <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
