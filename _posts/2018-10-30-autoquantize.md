@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auto-Quantize Deep Networks"
-date: 2015-05-06
+date: 2018-10-30
 ---
 
 <style>body {text-align: justify}</style>
