@@ -26,9 +26,9 @@ Following is an isometric view of all the objects places on a single plane.
 
 As we can see Data Visualization has a clear role to play in coming up with creative and accurate solutions for problems.
 
-On the other hand, stuff like designing an aesthetically appealing resume, or a dream childhood bedroom, or color coding of graphs or design templates for powerpoint presentations etc.. clearly gets categorized as design aesthetics and not data visualization. Though such techniques have their value in marketing a product, they do not play a role in solving the problems.
+On the other hand, stuff like designing an aesthetically appealing resume, or a dream childhood bedroom, or color coding of graphs or design templates for powerpoint presentations etc.. clearly gets categorized as design aesthetics and not data visualization. Though such techniques have their value in marketing a product, they do not play a role in solving a problem.
 
-As shown below these exact topics were some of the assignments given in the Data Visualization class, which I do not think quite fits in with the subject of Data Visualization.
+In my previous term at ASU, a course on Data Visualization was offered. Below was a tweet from one of the instructor's of the course, and I think the course missed noting this difference betwen Data Visualization and Design Aesthetics.
 
 <img src="/images/dataviz-tweet.png" alt="Instructor's tweet" style="height: 300px; width:300px;"/>
 

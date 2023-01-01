@@ -5,15 +5,15 @@ title: Blog Posts
 
 <div id="home">
   <h2><i class="fa fa-bookmark"></i> Blog Posts</h2>
-  <ul id="blog-posts" class="posts">
+  <ul id="blog-posts1" class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
   <h3><i class="fa fa-bookmark"></i> Other Miscellaneous Posts</h3>
-  <ul id="blog-posts" class="posts">
-    {% for post in site.misc %}
-      <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul id="blog-posts2" class="posts">
+    {% for miscPost in site.misc %}
+      <li><span>{{ miscPost.date | date_to_string }} &raquo;</span><a href="{{ miscPost.url }}">{{ miscPost.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
