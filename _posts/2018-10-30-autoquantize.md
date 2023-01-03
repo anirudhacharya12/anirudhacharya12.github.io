@@ -4,8 +4,6 @@ title: "Auto-Quantize Deep Networks"
 date: 2018-10-30
 ---
 
-<style>body {text-align: justify}</style>
-
 The following was an interesting idea I had, documenting it here for future reference - 
 
 ## UI Tool for optimizing a deep learning model for target resource utilization and target performance and accuracy

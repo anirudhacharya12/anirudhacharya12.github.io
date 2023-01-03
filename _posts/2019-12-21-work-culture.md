@@ -4,8 +4,6 @@ title: "Work Culture"
 date: 2019-12-21
 ---
 
-<style>body {text-align: justify}</style>
-
 Toxic situations at workplaces are not very uncommon. Toxicity in workplaces is often the result of a bad team dynamic or certain bad eggs in the team. The leadership and management/bosses can be well-meaning, and the workplace can still be toxic due to certain co-workers. The leadership and management might just fail to read the situation correctly.
 
 Consider this situation – Say there is a new technology disrupting the market. Using and implementing the latest technology requires specialized skills that experienced people from the industry do not possess, but younger people graduating from universities have them. The senior workers see this as a blow to their position and influence in the organizational setup. And their ego is probably getting in the way of accepting the expertise of the younger people. Such workers who want to maintain their power, or are motivated mainly by personal gains like a promotion or pay raise alone, can sometimes use petty and mean-spirited methods to manipulate the situation to hide their shortcomings and put down others.

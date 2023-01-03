@@ -4,8 +4,6 @@ title: "Finite and Infinite Games"
 date: 2021-12-30
 ---
 
-<style>body {text-align: justify}</style>
-
 This was a very weird book to read; it reads like a series of maxims, quotes, and aphorisms. A lot of it might not make sense right away, but parts of it gradually make sense over time.
 
 But I find the core idea of the book pretty appealing, and here is what I take away from the book –
