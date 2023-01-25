@@ -8,7 +8,7 @@ I recently had to read up a bit on some stochastic algorithms, and it felt like 
 
 It was one of the most intense and stimulating courses I have ever taken.
 
-Colbourn was a total boss; he would just walk into the class many times empty-handed, with no notes nothing, ask one of us where he had left off and would start holding forth on the subject matter of the lecture and hold the whole class captivated.
+Colbourn was a total boss, he would just walk into the class many times empty-handed, no notes nothing, ask one of us where he had left off and would start holding forth on the subject matter of the lecture and hold the whole class captivated.
 
 The best part of his lectures was the flow of his thoughts, he could make even some pretty complex algorithms, and mathematical proofs seem simple and straightforward. The mastery of his subject, TCS and algorithms, was obvious once you attended his lecture.
 
@@ -30,7 +30,7 @@ That was the time I took the course, and I count myself lucky to have got a chan
 
 The other two teachers I remember are – Joohyung Lee and Jingrui He. Joohyung Lee taught ‘Knowledge Representation. It was a pretty theoretical course with a lot of logic programming, first-order logic and proofs, and so on.
 
-Joohyung Lee had a very specific and different teaching philosophy that he described in his first class called “Teaching by Doing” – students were expected to work out problems on the whiteboard, in turns, during the class and later, the prof would discuss them.
+Joohyung Lee had a very specific and different teaching philosophy that he described in his first class called Learning by Doing” – students were expected to work out problems on the whiteboard in turns, and later the prof would discuss these solutions in the class.
 
 My term paper for the course was to write a compiler of sorts that would compile a given OWL ontology into a set of first-order logic rules, which can then be used to run some interesting logical inference queries.
 
