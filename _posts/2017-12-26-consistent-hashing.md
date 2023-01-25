@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Reinforcement Learning - Part 2"
-date: 2019-01-02
+title: "Consistent Hashing"
+date: 2015-12-26
+categories: blog
 ---
 
 <style>body {text-align: justify}</style>
