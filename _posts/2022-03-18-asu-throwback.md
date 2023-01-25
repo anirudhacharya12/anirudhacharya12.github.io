@@ -2,6 +2,7 @@
 layout: post
 title: "Throwback to ASU days"
 date: 2022-03-18
+categories: blog
 ---
 
 I recently had to read up a bit on some stochastic algorithms, and it felt like a slight throwback to the “Randomized and Approximation Algorithms” course in ASU that I took with Charles Colbourn – <a href="https://www.public.asu.edu/~ccolbou/" target="_blank">https://www.public.asu.edu/~ccolbou/</a>

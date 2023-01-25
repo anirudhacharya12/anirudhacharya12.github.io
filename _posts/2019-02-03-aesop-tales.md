@@ -2,6 +2,7 @@
 layout: post
 title: "Aesop's Tales"
 date: 2019-02-03
+categories: misc
 ---
 
 <style>body {text-align: justify}</style>

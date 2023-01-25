@@ -2,6 +2,7 @@
 layout: post
 title: "Explainability in AI"
 date: 2019-06-12
+categories: blog
 ---
 
 In this post, I will share a few of my thoughts on explainability in AI/ML.

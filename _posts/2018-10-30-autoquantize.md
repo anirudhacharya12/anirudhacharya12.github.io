@@ -2,6 +2,7 @@
 layout: post
 title: "Auto-Quantize Deep Networks"
 date: 2018-10-30
+categories: blog
 ---
 
 The following was an interesting idea I had, documenting it here for future reference - 

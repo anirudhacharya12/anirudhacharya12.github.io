@@ -2,6 +2,7 @@
 layout: post
 title: "Working Backwards"
 date: 2020-04-12
+categories: blog
 ---
 
 Amazon.com swears by “Working Backwards” as a tenet. And it is an excellent tenet that has worked well for the company. The work culture is such that even all of its employees adhere to it as a principle.

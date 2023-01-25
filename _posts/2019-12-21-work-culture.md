@@ -2,6 +2,7 @@
 layout: post
 title: "Work Culture"
 date: 2019-12-21
+categories: blog
 ---
 
 Toxic situations at workplaces are not very uncommon. Toxicity in workplaces is often the result of a bad team dynamic or certain bad eggs in the team. The leadership and management/bosses can be well-meaning, and the workplace can still be toxic due to certain co-workers. The leadership and management might just fail to read the situation correctly.

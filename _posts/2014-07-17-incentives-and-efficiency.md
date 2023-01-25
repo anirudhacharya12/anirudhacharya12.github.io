@@ -2,6 +2,7 @@
 layout: post
 title: "Financial Incentives and Work Efficiency"
 date: 2014-07-17
+categories: blog
 ---
 
 I was recently going through this ICML 2013 Workshop paper ( <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/viewFile/6301/6887" target="_blank">Financial Incentives and Efficiency of Crowdsourced Work</a> ) by Yiling Chen, it was quite interesting.

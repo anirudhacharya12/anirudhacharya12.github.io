@@ -2,6 +2,7 @@
 layout: post
 title: "Mental Conditioning"
 date: 2022-10-11
+categories: misc
 ---
 
 <style>body {text-align: justify}</style>

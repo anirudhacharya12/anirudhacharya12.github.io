@@ -2,6 +2,7 @@
 layout: post
 title: "Blogs vs. Podcasts"
 date: 2020-10-17
+categories: misc
 ---
 
 <style>body {text-align: justify}</style>
